@@ -7,7 +7,7 @@ key_vault_name = "kv-arantes-net-br"
 secret_name    = "secret-password-vms"
 
 # ---------------------------------------------------------------------------------------------------------------------
-# VARIABLES - Windows Virtual Machine
+# VARIABLES - Windows Virtual Machine 
 # ---------------------------------------------------------------------------------------------------------------------
 
 rg_vms_name  = "rg-virtual-machine-eastus2"
